@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋, I'm Shyam Lal Kafle</h1>
 <h3 align="center">Computer Science Student</h3>
 
-<img align="right" alt="coding" width="400" src="giphy.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/shyam0880/shyam0880/assets/67910907/39129782-8f8b-45a8-b9eb-b6310d0d3d83">
 <h3 align="justify"> &nbsp &nbsp &nbsp &nbsp I am graduate with a Bachelor's degree in Computer Science and Engineering (CSE) from the prestigious college MITS (Madanapalle Institute of Technology and Science). With a strong foundation in computer science principles and a passion for coding, I am eager to embark on a successful career in the tech industry.</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
