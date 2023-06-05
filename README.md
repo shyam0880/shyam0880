@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding" width="400" src="https://github.com/shyam0880/shyam0880/assets/67910907/39129782-8f8b-45a8-b9eb-b6310d0d3d83">
 <h3 align="justify"> &nbsp &nbsp &nbsp &nbsp I am graduate with a Bachelor's degree in Computer Science and Engineering (CSE) from the prestigious college MITS (Madanapalle Institute of Technology and Science). With a strong foundation in computer science principles and a passion for coding, I am eager to embark on a successful career in the tech industry.</h2>
+- 🌱 I’m currently working on project <br>
+- 👯 I’m looking to collaborate on ML and DS project <br>
+- ✍ You can find my resume here : <a href="">Resume</a> <br>
+- 📫 How to reach me: <a href="mailto:shyamlal9802@gmail.com">shyamlal9802@gmail.com</a><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shyam-lal-kafle-02a8311b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyam-lal-kafle-02a8311b1/" height="30" width="40" /></a>
@@ -44,7 +48,7 @@ Here are some ideas to get you started:
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shyam0880&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+<!--
 ---
 [![](https://visitcount.itsvg.in/api?id=shyam0880&icon=9&color=6)](https://visitcount.itsvg.in)
 
