@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="justify"> &nbsp &nbsp &nbsp &nbsp I am graduate with a Bachelor's degree in Computer Science and Engineering (CSE) from the prestigious college MITS (Madanapalle Institute of Technology and Science). With a strong foundation in computer science principles and a passion for coding, I am eager to embark on a successful career in the tech industry.</h2>
 - 🌱 I’m currently working on project <br>
 - 👯 I’m looking to collaborate on ML and DS project <br>
-- 🌎 Visite my Website : <a href="https://shyam0880.github.io/">Resume</a> <br>
+- 🌎 Visite my Website : <a href="https://shyam0880.github.io/">Website</a> <br>
 - ✍ You can find my resume here : <a href="https://shyam-080.framer.ai/">Resume</a> <br>
 - 📫 How to reach me: <a href="mailto:shyamlal9802@gmail.com">shyamlal9802@gmail.com</a><br>
 <h3 align="left">Connect with me:</h3>
