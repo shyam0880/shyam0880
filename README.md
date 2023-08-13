@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ---
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=shyam0880&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shyam0880&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shyam0880&theme=blue-green&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shyam0880&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
