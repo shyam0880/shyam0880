@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding" width="400" src="https://github.com/shyam0880/shyam0880/assets/67910907/39129782-8f8b-45a8-b9eb-b6310d0d3d83">
 <h3 align="justify"> &nbsp &nbsp &nbsp &nbsp I am graduate with a Bachelor's degree in Computer Science and Engineering (CSE) from the prestigious college MITS (Madanapalle Institute of Technology and Science). With a strong foundation in computer science principles and a passion for coding, I am eager to embark on a successful career in the tech industry.</h2>
-- 🌱 I’m currently working on project : <a href="[https://github.com/shyam0880/Social-Media-Platform">Social Media</a> <br> <br>
+- 🌱 I’m currently working on project : <a href="[https://github.com/shyam0880/Social-Media-Platform">Social Media</a> <br>
 - 🌎 Visite my Portfolio : <a href="https://shyam0880.github.io/">Portfolio</a> <br>
 - ✍ You can find my resume here : <a href="https://drive.google.com/file/d/16twecLIscNQjBPL-uCFLv8Kvk8tCyf4c/view?usp=sharing">Resume</a> <br>
 - 📫 How to reach me: <a href="mailto:shyamlal9802@gmail.com">shyamlal9802@gmail.com</a><br>
